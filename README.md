@@ -1,17 +1,18 @@
 ```text
-rock@macOS ~ % whoami --verbose
+rock@ai-lab ~ % whoami --verbose
 handle   rockcli
-focus    macOS native utilities · AI agent tooling · observability
-stack    Swift (AppKit / SwiftUI / CGEvent) · Python · TypeScript
+role     AI Agent Architect & Hands-on Practitioner
+focus    Multi-agent orchestration · LLM harnesses · Memory & voice agents · Observability
+stack    Python · TypeScript · Swift (macOS) · Rust
 ```
 
-### Selected Work
+### What I Build
 
-- **[howmanyusage](https://github.com/rockcli/howmanyusage)** — Native macOS menu bar monitor for AI coding & compute quotas (Codex, Claude, Antigravity, DeepSeek, Colab), burn-rate forecasts, and model speed.
-- **[TypeMate](https://github.com/rockcli/TypeMate)** — Zero-dependency macOS menu bar writing assistant using `CGEvent` + `Carbon TIS` for real-time English polishing and instant `⌘C`×2 translation.
+- **Multi-Agent Harnesses & Workflows** — Autonomous task pipelines, cross-model review & orchestration, reusable skill systems, and persistent context/memory architectures.
+- **AI Observability & Developer Tooling** — Quota & latency telemetry, burn-rate forecasting, terminal HUDs, and low-friction human-in-the-loop interfaces.
+- **Voice & Multimodal Agents** — Realtime speech-first assistants, stable persona & memory cores, and local hardware bridges.
 
-### Interests
+### Open Source
 
-- **Agent Infrastructure**: multi-model harnesses, quota/latency telemetry, terminal HUDs & bilingual sidecars
-- **Native macOS**: low-overhead `LSUIElement` daemons, `CGEvent` taps, `NSPanel` floating surfaces
-- **Local & Hardware**: offline wake-word pipelines, smart-device bridges, voice-first prototyping
+- **[howmanyusage](https://github.com/rockcli/howmanyusage)** — Native macOS menu bar monitor for Codex, Claude, Antigravity, DeepSeek, and Colab quotas, burn-rate forecasts & model speed.
+- **[TypeMate](https://github.com/rockcli/TypeMate)** — Zero-dependency macOS menu bar writing assistant & instant translator powered by `CGEvent` + DeepSeek.
