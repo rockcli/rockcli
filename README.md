@@ -2,6 +2,7 @@
 rock@ai-lab ~ % whoami --verbose
 handle   rockcli
 role     AI Agent Architect & Hands-on Practitioner
+site     https://rockcli.github.io
 focus    Multi-model harnesses · Agent skills & ops · Memory/privacy kernels · Observability
 stack    Python · Swift (macOS) · TypeScript / Node.js · Shell
 ```
