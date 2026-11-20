@@ -21,5 +21,6 @@ stack    Python · Swift (macOS) · TypeScript / Node.js · Shell
 - **[antigravity-office](https://github.com/rockcli/antigravity-office)** — Lightweight, zero-dependency 2.5D Pixel Agent Office & CDP HUD for Google Antigravity on macOS, unifying live `Claude Code`, `Codex`, `OpenCode`, `DSH`, and `HowManyUsage` telemetry.
 - **[howmanyusage](https://github.com/rockcli/howmanyusage)** — Native macOS menu bar monitor for `Codex`, `Claude`, `Antigravity`, `DeepSeek`, and `Colab` quotas, burn-rate forecasts & model speed.
 - **[TypeMate](https://github.com/rockcli/TypeMate)** — Zero-dependency native macOS menu bar writing assistant & instant double-`⌘C` translator powered by `CGEvent` + DeepSeek.
+- **[ghostty-cc-bilingual](https://github.com/rockcli/ghostty-cc-bilingual)** — Zero-dependency Ghostty bilingual side pane for Claude Code on macOS with read-after-write JSONL verification, structural bold/code preservation, and local Ollama telemetry.
 
 > *Design bias: zero unnecessary dependencies, fail-closed boundaries, deterministic verification around probabilistic models, and local-first telemetry.*
